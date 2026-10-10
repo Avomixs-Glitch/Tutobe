@@ -1,0 +1,38 @@
+name: Signaler un problème
+description: Aidez-nous à comprendre un dysfonctionnement de Tutobe ou de sa documentation.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de ne pas inclure de données personnelles, de clés, de jetons ou d'informations de sécurité sensibles.
+  - type: textarea
+    id: observed
+    attributes:
+      label: Comportement observé
+      description: Que s'est-il passé ?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportement attendu
+      description: Quel résultat attendiez-vous ?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Étapes de reproduction
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environnement
+      description: Navigateur, système d'exploitation et version de l'extension si concernée.
