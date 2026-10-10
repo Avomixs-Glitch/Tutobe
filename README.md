@@ -31,6 +31,12 @@
   <sub>Aperçu produit avec données de démonstration anonymisées.</sub>
 </p>
 
+<p align="center">
+  <img src="assets/tutobe-knowledge-demo.jpg" alt="Aperçu de l'espace Tutobe : carte de connaissances, concepts extraits, flashcards et progression d’étude." width="100%" />
+  <br />
+  <sub>Carte de connaissances et espace d’étude — données de démonstration anonymisées.</sub>
+</p>
+
 ## Le problème que Tutobe résout
 
 YouTube est l’une des meilleures sources pour apprendre, créer et faire de la veille. Pourtant, après quelques semaines, les vidéos sauvegardées deviennent difficiles à exploiter : elles sont dispersées entre favoris, historique et playlists ; elles manquent de notes ; leurs liens thématiques restent invisibles.
