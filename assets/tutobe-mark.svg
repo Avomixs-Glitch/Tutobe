@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Tutobe</title>
+  <desc id="desc">Monogramme Tutobe</desc>
+  <defs>
+    <linearGradient id="g" x1="24" y1="20" x2="136" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="40" fill="#0f172a"/>
+  <path d="M35 42h90v19H90v57c0 8 4 12 12 12h23v18H96c-17 0-26-10-26-27V61H35V42Z" fill="url(#g)"/>
+  <circle cx="112" cy="101" r="12" fill="#f8fafc"/>
+</svg>
