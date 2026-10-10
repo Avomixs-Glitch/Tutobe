@@ -6,106 +6,122 @@
 
 # Tutobe
 
-### Faites de YouTube une bibliothèque qui vous aide réellement à avancer.
+### La bibliothèque YouTube qui transforme ce que vous regardez en ce que vous retenez.
 
-**Tutobe transforme vos vidéos YouTube en un système personnel de connaissance : une bibliothèque organisée, interrogeable, reliée et conçue pour durer.**
+**Tutobe est un espace personnel pour importer, organiser, relier et réutiliser les vidéos qui comptent. Il remplace l’accumulation de liens par une bibliothèque de connaissance vivante.**
 
-[Découvrir Tutobe](https://tutobe.vercel.app) · [Explorer les discussions](../../discussions) · [Signaler un problème](../../issues)
+[Ouvrir Tutobe](https://tutobe.vercel.app) · [Découvrir les fonctionnalités](#ce-que-tutobe-permet) · [Signaler un problème](../../issues)
 
 <br />
 
-![Produit propriétaire](https://img.shields.io/badge/Produit-Propri%C3%A9taire-111827?style=flat-square&labelColor=0f172a)
-![Données isolées](https://img.shields.io/badge/Donn%C3%A9es-Isol%C3%A9es_par_utilisateur-047857?style=flat-square)
-![Conçu pour apprendre](https://img.shields.io/badge/Con%C3%A7u_pour-Apprendre-2563eb?style=flat-square)
+![Produit propriétaire](https://img.shields.io/badge/Produit-propri%C3%A9taire-111827?style=flat-square&labelColor=0f172a)
+![Conçu pour apprendre](https://img.shields.io/badge/Con%C3%A7u_pour-apprendre-2563eb?style=flat-square)
+![Données isolées](https://img.shields.io/badge/Donn%C3%A9es-isol%C3%A9es_par_utilisateur-047857?style=flat-square)
+![Extension Chrome](https://img.shields.io/badge/Extension-Chrome-7c3aed?style=flat-square)
 
 </div>
 
 ---
 
-> **La promesse de Tutobe :** ne plus accumuler des vidéos, mais construire un contexte autour de celles qui comptent.
+> **Ce n’est pas une playlist de plus.** Tutobe donne un contexte à chaque vidéo : pourquoi elle est là, à quel sujet elle appartient, avec quoi elle se relie et quelle action elle peut nourrir.
 
-## YouTube est une excellente source. Pas encore une bonne mémoire.
+<p align="center">
+  <img src="assets/tutobe-dashboard-demo.jpg" alt="Aperçu de l'expérience Tutobe : bibliothèque, connexions de connaissances, progression et vidéos à revoir." width="100%" />
+  <br />
+  <sub>Aperçu produit avec données de démonstration anonymisées.</sub>
+</p>
 
-Entre les vidéos aimées, les playlists, l'historique et les liens partagés, les meilleures ressources finissent souvent sans contexte. On se souvient d'avoir vu « quelque chose d'utile », sans pouvoir le retrouver — ou sans voir comment cette idée se relie au reste.
+## Le problème que Tutobe résout
 
-Tutobe apporte la couche qui manque : **une structure personnelle au-dessus de votre bibliothèque YouTube.**
+YouTube est l’une des meilleures sources pour apprendre, créer et faire de la veille. Pourtant, après quelques semaines, les vidéos sauvegardées deviennent difficiles à exploiter : elles sont dispersées entre favoris, historique et playlists ; elles manquent de notes ; leurs liens thématiques restent invisibles.
 
-| Avant Tutobe | Avec Tutobe |
+Tutobe apporte une couche de mémoire et d’organisation au-dessus de votre consommation vidéo.
+
+| Sans système | Avec Tutobe |
 | --- | --- |
-| Une accumulation de liens | Une bibliothèque conçue pour être retrouvée |
-| Des playlists qui se chevauchent | Des catégories, tags et collections qui donnent du contexte |
-| Une recherche par souvenir approximatif | Une recherche multicritère par titre, chaîne, thème, tag ou note |
-| Des contenus isolés | Des relations visibles entre les sujets et ressources |
-| Une intention d'apprendre | Des parcours, notes, historiques et repères pour progresser |
+| « Je sais que j’ai vu une bonne vidéo là-dessus. » | Retrouvez-la par titre, chaîne, sujet, tag, catégorie ou note. |
+| Des vidéos isolées dans des playlists. | Des ressources reliées dans un graphe de connaissances. |
+| Une liste qui s’allonge. | Des collections, parcours et priorités qui donnent une direction. |
+| De bonnes intentions d’apprentissage. | Une progression visible, des notes et des prochaines actions. |
 
-## Un cycle de connaissance, pas un simple catalogue
+## Ce que Tutobe permet
 
-**Collecter → Structurer → Relier → Retrouver → Progresser**
+### Une bibliothèque construite autour de votre façon de penser
 
-### 01 — Collecter sans casser votre rythme
+- **Catalogue centralisé** — importez, créez, éditez et enrichissez chaque vidéo.
+- **Organisation fine** — catégories, tags, collections, playlists, favoris, notes et historique de visionnage.
+- **Vues adaptées au contexte** — basculez entre grille, liste, table, kanban, chronologie et calendrier.
+- **Recherche avancée** — combinez texte, catégorie, tags, chaînes, dates, état, favoris et autres critères.
+- **Filtres et recherches enregistrés** — retrouvez instantanément les ensembles que vous consultez souvent.
 
-Importez vos vidéos via CSV, ajoutez-les manuellement, ou utilisez l’extension Chrome Tutobe pour importer une sélection de vidéos aimées. L’import massif indique une progression réelle et prend en charge la détection des doublons.
+### Un système de connaissance, pas seulement de classement
 
-### 02 — Donner une place à chaque ressource
+Tutobe rapproche les vidéos qui partagent des thèmes, catégories ou tags et les présente dans un **graphe de connaissances**. Vous pouvez explorer un sujet par son contexte plutôt que par un titre exact, puis créer des **parcours d’apprentissage** pour organiser une progression.
 
-Classez les vidéos avec des catégories, tags, collections, favoris et playlists. Ajoutez des notes, mémorisez votre historique et enregistrez les recherches ou filtres qui comptent pour votre travail.
+L’espace d’extraction de connaissances aide également à transformer une vidéo en matière exploitable : concepts, points clés, cartes mémoire, mind maps et sessions d’étude. Cette couche d’assistance s’appuie sur les informations que vous classez et contrôlez ; elle est là pour clarifier votre bibliothèque, pas pour remplacer votre jugement.
 
-### 03 — Faire apparaître les connexions
+### Importer sans changer vos habitudes
 
-Tutobe identifie les proximités entre thèmes, catégories et tags. Le graphe de connaissances rend visibles les relations qui restent cachées dans une simple liste de vidéos, puis aide à constituer des parcours d’apprentissage cohérents.
-
-### 04 — Retrouver avec précision
-
-Utilisez une recherche avancée et des filtres combinables pour retrouver une idée par son titre, sa chaîne, son sujet, son contexte ou vos propres annotations — même longtemps après l’avoir enregistrée.
-
-### 05 — Transformer l’attention en progression
-
-Les vues d’analyse, rapports, tendances, objectifs et recommandations transforment votre bibliothèque en espace de décision : quoi revoir, quoi approfondir et quel sujet poursuivre ensuite.
-
-## Tout votre savoir, selon votre manière de travailler
-
-Tutobe ne vous enferme pas dans une seule représentation. Une même bibliothèque peut être lue sous plusieurs angles :
-
-| Vue | Quand l’utiliser |
+| Source | Ce que Tutobe fait |
 | --- | --- |
-| **Grille** | Explorer visuellement vos ressources |
-| **Liste & tableau** | Comparer, trier et effectuer un suivi précis |
-| **Kanban** | Faire évoluer les vidéos selon votre propre workflow |
-| **Chronologie & calendrier** | Revoir votre activité et remettre le contenu dans le temps |
-| **Graphe de connaissances** | Découvrir les thèmes, ponts et zones denses de votre bibliothèque |
+| **Extension Chrome** | Lit la sélection de vidéos aimées YouTube depuis votre navigateur puis l’importe dans votre bibliothèque Tutobe authentifiée. |
+| **CSV** | Reprend une bibliothèque existante et traite l’import par lots avec une progression réelle. |
+| **Ajout manuel** | Permet de constituer une bibliothèque très ciblée, une vidéo à la fois. |
 
-## Conçu pour les personnes qui apprennent en continu
+Le moteur détecte les doublons et vous aide à conserver une collection propre dès l’import.
 
-**Autodidactes et étudiants** — transformez une succession de vidéos en parcours progressif.  
-**Professionnels et chercheurs** — gardez une veille retrouvable, annotée et reliée à vos sujets.  
-**Créatifs** — conservez vos références avec leur contexte, pas seulement leur lien.  
-**Curieux exigeants** — rendez visibles les connexions entre vos centres d’intérêt.
+### Donner de l’intelligence au rangement
 
-## La confiance fait partie du produit
+Tutobe inclut une assistance d’organisation qui reste compréhensible et actionnable :
 
-Votre bibliothèque vous appartient. Tutobe a été conçu autour de principes concrets :
+- propositions de catégories fondées sur le titre, les tags et la chaîne ;
+- extraction de tags pertinents depuis les métadonnées ;
+- détection de similarités et de doublons ;
+- relations dérivées entre contenus pour alimenter le graphe ;
+- règles d’automatisation pour classer, signaler ou favoriser des vidéos selon vos critères ;
+- outils de maintenance et d’analyse de qualité pour garder la bibliothèque fiable.
 
-- **Isolation des données par utilisateur** : chaque enregistrement est rattaché à son propriétaire.
-- **Contrôle au niveau de la donnée** : les règles d’accès sont appliquées directement par la base de données.
-- **Sessions courtes** : l’application s’appuie sur des jetons d’accès à durée limitée.
-- **Aucun identifiant de base de données dans le navigateur.**
-- **Import YouTube en lecture seule** : Tutobe ne peut ni liker, ni commenter, ni supprimer du contenu à votre place.
-- **Choix de l’import** : vous décidez de la bibliothèque que vous souhaitez intégrer.
+### Faire progresser, pas seulement stocker
 
-Consultez la [politique de confidentialité](https://tutobe.vercel.app/privacy) et les [conditions d’utilisation](https://tutobe.vercel.app/terms) pour les informations complètes.
+Analytics, rapports, tendances, tableaux de bord, recommandations, achievements, templates et outils de productivité servent un seul objectif : passer du contenu sauvegardé au contenu réellement utilisé.
 
-## Dépôt public, produit privé
+## Un produit pensé pour différents usages
 
-Ce dépôt est la vitrine officielle de Tutobe. Il centralise la présentation du produit, les annonces, les échanges et les retours de la communauté.
+**Apprendre un sujet complexe** — centralisez cours, explications et exercices, puis créez votre propre parcours.  
+**Faire de la veille** — classez les vidéos importantes par projet, domaine ou priorité et retrouvez-les sans friction.  
+**Construire une mémoire créative** — conservez les références, inspirations et techniques avec leur contexte.  
+**Gérer une base de ressources professionnelle** — utilisez collections, recherche, statistiques et partage pour rendre la veille exploitable.
 
-Le code source, l’infrastructure et les données de production restent privés. Ce dépôt n’est donc pas un projet open source, ne permet pas d’exécuter l’application localement et n’accepte pas de contributions de code.
+## La confiance est une fonctionnalité
 
-### Participer utilement
+Votre bibliothèque est personnelle. Tutobe est conçu pour la protéger à tous les niveaux :
 
-- Consultez [les discussions](../../discussions) pour partager un cas d’usage ou une idée.
-- Utilisez [les issues](../../issues) pour signaler un problème dans l’expérience ou la documentation.
-- Lisez [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md) et [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) avant de contribuer.
+- **Données isolées par utilisateur** grâce à des règles appliquées au niveau de la base de données.
+- **Sessions authentifiées de courte durée** plutôt que des identifiants de base exposés au navigateur.
+- **Accès Google encadré** : Tutobe ne reçoit ni votre mot de passe ni le contrôle de votre compte YouTube.
+- **Import en lecture seule** : aucune vidéo n’est likée, commentée, supprimée ou modifiée en votre nom.
+- **Sauvegardes et exports** pour que vos données restent portables et récupérables.
+
+Consultez la [politique de confidentialité](https://tutobe.vercel.app/privacy) et les [conditions d’utilisation](https://tutobe.vercel.app/terms).
+
+## Accéder à Tutobe
 
 <div align="center">
-  <sub>© 2026 Tutobe — Tous droits réservés.</sub>
+
+[**Ouvrir l’application →**](https://tutobe.vercel.app)
+
+</div>
+
+## À propos de ce dépôt
+
+Ce dépôt est la vitrine publique officielle de Tutobe : présentation produit, échanges communautaires et documentation ouverte.
+
+Le code source, l’infrastructure et les données de production restent privés. Tutobe n’est pas un projet open source et ce dépôt ne permet pas d’exécuter l’application localement.
+
+- Une idée produit ou un cas d’usage ? [Ouvrez une discussion](../../discussions).
+- Un problème dans l’expérience ou la documentation ? [Créez une issue](../../issues).
+- Un sujet de sécurité ? Consultez [SECURITY.md](SECURITY.md).
+
+<div align="center">
+  <sub>© 2026 Tutobe. Tous droits réservés.</sub>
 </div>
