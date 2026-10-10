@@ -1,0 +1,24 @@
+name: Suggérer une amélioration
+description: Partagez une idée qui rendrait Tutobe plus utile.
+title: "[Idée] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Quel besoin cherchez-vous à résoudre ?
+      description: Décrivez le contexte avant de proposer une solution.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Votre idée
+      description: Quelle expérience imagineriez-vous ?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives envisagées
+      description: Facultatif — les méthodes ou outils actuellement utilisés.
